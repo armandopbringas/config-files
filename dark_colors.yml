@@ -1,0 +1,46 @@
+# Main Colors
+unrecognized_file: "#41A6B5"
+recognized_file: "#41A6B5"
+executable_file: "#41A6B5"
+dir: "#41A6B5"
+
+# Link
+dead_link: "#F7768E"
+link: "#7DCFFF"
+
+# special files
+socket: "#9ECE6A"
+blockdev: "#9ECE6A"
+chardev: "#9ECE6A"
+
+# Access Modes
+write: "#41A6B5"
+read: "#41A6B5"
+exec: "#41A6B5"
+no_access: "#41A6B5"
+
+# Age
+day_old: "#F69861"
+hour_old: "#9ECE6A"
+no_modifier: "#7AA2F7"
+
+# File Size
+file_large: "#F69861"
+file_medium: "#41A6B5"
+file_small: "#7DCFFF"
+
+# Random
+report: white
+user: "#F69861"
+tree: "#7DCFFF"
+empty: "#F69861"
+error: "#F69861"
+normal: "#F69861"
+inode: "#F69861"
+
+# Git
+addition: "#9ECE6A"
+modification: "#9ECE6A"
+deletion: "#F69861"
+untracked: "#E0AF68"
+unchanged: "#9ECE6A"
